@@ -1,0 +1,33 @@
+{
+  "name": "@telemetry-js/telemetry",
+  "version": "0.2.3",
+  "description": "Modular metrics for Node.js",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && tape test/*.js"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "dependencies": {
+    "combine-errors": "^3.0.3"
+  },
+  "devDependencies": {
+    "hallmark": "^3.1.0",
+    "standard": "^14.3.4",
+    "tape": "^4.9.1"
+  },
+  "repository": "telemetry-js/telemetry",
+  "bugs": "https://github.com/telemetry-js/telemetry/issues",
+  "homepage": "https://github.com/telemetry-js/telemetry",
+  "keywords": [
+    "metrics",
+    "measurements",
+    "telemetry"
+  ],
+  "engines": {
+    "node": ">=6"
+  }
+}
