@@ -1,6 +1,6 @@
 {
   "name": "@telemetry-js/telemetry",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Modular metrics for Node.js",
   "license": "MIT",
   "author": "Vincent Weevers",
