@@ -2,7 +2,7 @@
 
 **Modular metrics for Node.js.** Collect, process and publish metrics, picking only the metrics that you need.
 
-[![npm status](http://img.shields.io/npm/v/telemetry-js/telemetry.svg)](https://www.npmjs.org/package/@telemetry-js/telemetry)
+[![npm status](http://img.shields.io/npm/v/@telemetry-js/telemetry.svg)](https://www.npmjs.org/package/@telemetry-js/telemetry)
 [![node](https://img.shields.io/node/v/@telemetry-js/telemetry.svg)](https://www.npmjs.org/package/@telemetry-js/telemetry)
 [![Test](https://github.com/telemetry-js/telemetry/workflows/Test/badge.svg?branch=main)](https://github.com/telemetry-js/telemetry/actions)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -223,7 +223,7 @@ npm install @telemetry-js/telemetry
 
 ## Acknowledgements
 
-This project is kindly sponsored by [Reason Cybersecurity Inc](https://reasonsecurity.com).
+This project is kindly sponsored by [Reason Cybersecurity Ltd](https://reasonsecurity.com).
 
 [![reason logo](https://cdn.reasonsecurity.com/github-assets/reason_signature_logo.png)](https://reasonsecurity.com)
 
